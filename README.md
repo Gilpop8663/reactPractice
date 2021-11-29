@@ -9,7 +9,7 @@ Routing
 
 ## 만들어 본 것
 
-비트코인 api 이용해서 불러오기 && 달러와 BTC 의 환전 계산
+비트코인 api 이용해서 
 
 영화 api 이용해서 불러오기 & Router 이용 & useParams를 이용 
 
@@ -19,4 +19,4 @@ Routing
 
 ## 배포 사이트
 
-https://gilpop8663.github.io/reactPractice/
+https://gilpop8663.github.io/coinsite/
