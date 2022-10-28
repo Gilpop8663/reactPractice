@@ -19,4 +19,4 @@ Routing
 
 ## 배포 사이트
 
-https://gilpop8663.github.io/coinsite/
+https://gilpop8663.github.io/reactPractice/
